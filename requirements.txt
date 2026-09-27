@@ -1,0 +1,2 @@
+# decide.py is pure standard library - nothing to install.
+# (The rest of the series' apps have their own requirements in their folders.)
